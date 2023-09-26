@@ -1,0 +1,9 @@
+[user]
+  name = Andrii Maliar
+  email = andreymalyar@gmail.com
+
+[alias]
+  br = branch
+  lg = log
+  st = status
+  ci = commit
